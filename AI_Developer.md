@@ -78,5 +78,15 @@ To ensure AI models are trained on balanced datasets, reducing the risk of biase
 - **Assumption:** Detecting and addressing biases in datasets leads to fairer AI model outcomes.  
 - **Validation:** Analyze existing datasets to identify bias patterns and validate findings with domain experts.  
 
+### **2. [UR-02.2] Develop Bias Detection Algorithm**
+- **Parent:** [UR-02] Bias Detection and Mitigation  
+- **Goal:** Create an algorithm to detect biases in datasets.  
+- **Approach:** Use statistical and rule-based methods to identify biases.  
+- **Tasks:**  
+  - [ ] Define bias detection criteria and thresholds.  
+  - [ ] Write scripts to analyze dataset distributions.  
+  - [ ] Flag overrepresented or underrepresented categories.  
+  - [ ] Test the algorithm on benchmark datasets for accuracy.  
 
+  
 
