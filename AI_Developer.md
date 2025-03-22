@@ -292,6 +292,16 @@ To ensure the system can handle large datasets without performance degradation, 
   - [ ] Process batches sequentially or in parallel.  
   - [ ] Monitor memory and CPU usage during batch processing.  
 
+  ### **4. [UR-05.4] Conduct Load Testing**
+- **Parent:** [UR-05] Scalable Data Handling  
+- **Goal:** Validate system scalability under high data loads.  
+- **Approach:** Simulate large datasets and concurrent users.  
+- **Tasks:**  
+  - [ ] Simulate high concurrent user loads.  
+  - [ ] Track CPU, memory, and disk usage during testing.  
+  - [ ] Identify and resolve performance issues.  
+  - [ ] Generate load testing reports for analysis.  
+
   
 
 
