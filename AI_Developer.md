@@ -32,4 +32,15 @@ To enhance model learning efficiency by structuring training data into meaningfu
   - [ ] Save category in database table.  
   - [ ] Validate category before saving.  
   - [ ] Load category options dynamically. 
+
+  ### **3. [UR-01.3] Develop Automatic Categorization Algorithm**
+- **Parent:** [UR-01] Categorized Training Questions  
+- **Goal:** Automatically categorize training questions.  
+- **Approach:** Train a machine learning model for classification.  
+- **Tasks:**  
+  - [ ] Collect and preprocess training data for categorization.  
+  - [ ] Train a classification model using labeled data.  
+  - [ ] Test the model’s accuracy and refine as needed.  
+  - [ ] Integrate the model into the categorization workflow. 
+
   
