@@ -201,6 +201,12 @@ To provide transparency into AI decision-making by generating human-readable exp
 
 ---
 
+## **Sub-Issues:**
+
+### **1. [UR-04.1] Research Explainability Methods**
+- **Assumption:** Explainable AI improves trust and debugging capabilities.  
+- **Validation:** Evaluate existing explainability frameworks for suitability and performance.
+
 
 
 
