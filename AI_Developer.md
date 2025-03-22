@@ -143,3 +143,16 @@ To improve the quality of training data by automatically detecting and resolving
 - **Assumption:** Cleaning training data improves model performance and reliability.  
 - **Validation:** Analyze existing datasets to identify common issues like missing values, duplicates, and inconsistencies.  
 
+### **2. [UR-03.2] Define Data Cleaning Rules**
+- **Parent:** [UR-03] Automated Data Cleaning  
+- **Goal:** Establish rules for resolving data inconsistencies.  
+- **Approach:** Collaborate with domain experts to define cleaning logic.  
+- **Tasks:**  
+  - [ ] Document rules for handling missing values.  
+  - [ ] Define criteria for removing duplicates.  
+  - [ ] Standardize formats for inconsistent data.  
+  - [ ] Validate rules with sample datasets.  
+
+
+
+
