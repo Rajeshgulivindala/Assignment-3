@@ -227,6 +227,17 @@ To provide transparency into AI decision-making by generating human-readable exp
   - [ ] Provide downloadable reports for AI decisions.  
   - [ ] Test visualizations with end-users for clarity.  
 
+### **4. [UR-04.4] Integrate Explainability into AI Workflow**
+- **Parent:** [UR-04] Explainable AI Model Predictions  
+- **Goal:** Ensure explanations are available during real-time AI inference.  
+- **Approach:** Integrate explainability into the AI pipeline.  
+- **Tasks:**  
+  - [ ] Enable real-time explanation generation during inference.  
+  - [ ] Allow users to request explanations on-demand.  
+  - [ ] Store explanations for future reference and auditing.  
+  - [ ] Monitor the performance impact of explainability features.  
+
+  
 
 
 
