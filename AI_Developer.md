@@ -272,6 +272,16 @@ To ensure the system can handle large datasets without performance degradation, 
 - **Assumption:** Efficient data handling ensures consistent and structured input for AI training.  
 - **Validation:** Profile the system to detect bottlenecks under large data loads. 
 
+### **2. [UR-05.2] Optimize Database Queries**
+- **Parent:** [UR-05] Scalable Data Handling  
+- **Goal:** Improve database performance for large datasets.  
+- **Approach:** Optimize queries and implement indexing.  
+- **Tasks:**  
+  - [ ] Index critical database columns for faster queries.  
+  - [ ] Minimize complex query joins.  
+  - [ ] Implement batch fetching for large datasets.  
+  - [ ] Test query performance after optimizations. 
+
 
 
 
