@@ -98,5 +98,13 @@ To ensure AI models are trained on balanced datasets, reducing the risk of biase
   - [ ] Automate bias correction based on predefined rules.  
   - [ ] Log all corrections for auditing purposes.  
 
-  
+  ### **4. [UR-02.4] Generate Bias Analysis Reports**
+- **Parent:** [UR-02] Bias Detection and Mitigation  
+- **Goal:** Provide insights into detected biases and their impact.  
+- **Approach:** Develop reporting tools with visualizations.  
+- **Tasks:**  
+  - [ ] Generate reports on detected biases and corrections.  
+  - [ ] Visualize bias impact on model performance.  
+  - [ ] Store historical reports for auditing and comparison.  
+  - [ ] Export reports in CSV and PDF formats.  
 
