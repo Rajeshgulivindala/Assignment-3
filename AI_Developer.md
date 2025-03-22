@@ -237,7 +237,17 @@ To provide transparency into AI decision-making by generating human-readable exp
   - [ ] Store explanations for future reference and auditing.  
   - [ ] Monitor the performance impact of explainability features.  
 
+ ### **5. [UR-04.5] Develop Explainability Metrics**
+- **Parent:** [UR-04] Explainable AI Model Predictions  
+- **Goal:** Measure the effectiveness of explanations.  
+- **Approach:** Define and track metrics for explainability.  
+- **Tasks:**  
+  - [ ] Define metrics (e.g., explanation accuracy, user satisfaction).  
+  - [ ] Collect feedback from users on explanation quality.  
+  - [ ] Analyze the impact of explanations on debugging and model improvement.  
+  - [ ] Refine explainability methods based on metrics.  
   
+   
 
 
 
