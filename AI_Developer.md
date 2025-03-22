@@ -108,3 +108,12 @@ To ensure AI models are trained on balanced datasets, reducing the risk of biase
   - [ ] Store historical reports for auditing and comparison.  
   - [ ] Export reports in CSV and PDF formats.  
 
+### **5. [UR-02.5] Integrate Bias Detection into Workflows**
+- **Parent:** [UR-02] Bias Detection and Mitigation  
+- **Goal:** Seamlessly incorporate bias detection into training pipelines.  
+- **Approach:** Automate bias checks during data preprocessing.  
+- **Tasks:**  
+  - [ ] Integrate bias detection scripts into data pipelines.  
+  - [ ] Trigger alerts for detected biases during training.  
+  - [ ] Ensure compatibility with existing AI workflows.  
+  - [ ] Monitor bias detection performance in real-time.  
