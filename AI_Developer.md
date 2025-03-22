@@ -153,6 +153,16 @@ To improve the quality of training data by automatically detecting and resolving
   - [ ] Standardize formats for inconsistent data.  
   - [ ] Validate rules with sample datasets.  
 
+### **3. [UR-03.3] Develop Data Cleaning Scripts**
+- **Parent:** [UR-03] Automated Data Cleaning  
+- **Goal:** Automate the detection and resolution of data issues.  
+- **Approach:** Write scripts to apply cleaning rules to datasets.  
+- **Tasks:**  
+  - [ ] Develop scripts for handling missing values.  
+  - [ ] Create scripts to remove duplicates and outliers.  
+  - [ ] Standardize data formats (e.g., dates, text).  
+  - [ ] Test scripts on sample datasets for accuracy.  
 
+  
 
 
