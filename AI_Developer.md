@@ -137,3 +137,9 @@ To improve the quality of training data by automatically detecting and resolving
 
 ---
 
+## **Sub-Issues:**
+
+### **1. [UR-03.1] Identify Common Data Issues**
+- **Assumption:** Cleaning training data improves model performance and reliability.  
+- **Validation:** Analyze existing datasets to identify common issues like missing values, duplicates, and inconsistencies.  
+
