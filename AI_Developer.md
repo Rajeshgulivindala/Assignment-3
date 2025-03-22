@@ -14,3 +14,9 @@ To enhance model learning efficiency by structuring training data into meaningfu
 - Build an analytics dashboard to evaluate categorization effectiveness.  
 
 **Priority:** High  
+
+## **Sub-Issues:**
+
+### **1. [UR-01.1] Define Categories for Training Questions**
+- **Assumption:** A well-organized Q&A format helps learning by avoiding unintentional hints.  
+- **Validation:** Conduct usability testing with developers to measure effectiveness. 
