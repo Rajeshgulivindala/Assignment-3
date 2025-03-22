@@ -43,4 +43,12 @@ To enhance model learning efficiency by structuring training data into meaningfu
   - [ ] Test the model’s accuracy and refine as needed.  
   - [ ] Integrate the model into the categorization workflow. 
 
-  
+  ### **4. [UR-01.4] Build Analytics Dashboard**
+- **Parent:** [UR-01] Categorized Training Questions  
+- **Goal:** Evaluate categorization effectiveness.  
+- **Approach:** Develop a dashboard with metrics and visualizations.  
+- **Tasks:**  
+  - [ ] Define key metrics for categorization effectiveness.  
+  - [ ] Visualize categorization accuracy and trends.  
+  - [ ] Allow users to compare categorized vs. non-categorized data.  
+  - [ ] Provide insights for improving categorization algorithms.  
