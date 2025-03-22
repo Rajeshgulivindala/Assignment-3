@@ -266,6 +266,12 @@ To ensure the system can handle large datasets without performance degradation, 
 
 ---
 
+## **Sub-Issues:**
+
+### **1. [UR-05.1] Identify Performance Bottlenecks**
+- **Assumption:** Efficient data handling ensures consistent and structured input for AI training.  
+- **Validation:** Profile the system to detect bottlenecks under large data loads. 
+
 
 
 
