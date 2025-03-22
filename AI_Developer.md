@@ -282,7 +282,17 @@ To ensure the system can handle large datasets without performance degradation, 
   - [ ] Implement batch fetching for large datasets.  
   - [ ] Test query performance after optimizations. 
 
+### **3. [UR-05.3] Implement Batch Processing**
+- **Parent:** [UR-05] Scalable Data Handling  
+- **Goal:** Reduce memory usage and improve processing efficiency.  
+- **Approach:** Process data in smaller, manageable batches.  
+- **Tasks:**  
+  - [ ] Define batch sizes based on system capabilities.  
+  - [ ] Develop scripts to split data into batches.  
+  - [ ] Process batches sequentially or in parallel.  
+  - [ ] Monitor memory and CPU usage during batch processing.  
 
+  
 
 
 
