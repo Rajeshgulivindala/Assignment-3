@@ -20,3 +20,16 @@ To enhance model learning efficiency by structuring training data into meaningfu
 ### **1. [UR-01.1] Define Categories for Training Questions**
 - **Assumption:** A well-organized Q&A format helps learning by avoiding unintentional hints.  
 - **Validation:** Conduct usability testing with developers to measure effectiveness. 
+
+### **2. [UR-01.2] Implement Question Categorization UI**
+- **Parent:** [UR-01] Categorized Training Questions  
+- **Goal:** Allow users to assign categories.  
+- **Approach:** Add dropdown and save logic.  
+- **Tasks:**  
+  - [ ] Create dropdown for category selection.  
+  - [ ] Store category with question entry.  
+  - [ ] Connect UI with backend API.  
+  - [ ] Save category in database table.  
+  - [ ] Validate category before saving.  
+  - [ ] Load category options dynamically. 
+  
