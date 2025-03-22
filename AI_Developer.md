@@ -216,8 +216,16 @@ To provide transparency into AI decision-making by generating human-readable exp
   - [ ] Develop a prototype to generate explanations for predictions.  
   - [ ] Test the prototype on sample AI models.  
   - [ ] Collect feedback from developers on interpretability. 
-  
-   
+
+  ### **3. [UR-04.3] Enhance Explainability Visualization**
+- **Parent:** [UR-04] Explainable AI Model Predictions  
+- **Goal:** Provide user-friendly visualizations for explanations.  
+- **Approach:** Develop graphs, heatmaps, and text-based explanations.  
+- **Tasks:**  
+  - [ ] Create visual formats for explaining predictions.  
+  - [ ] Allow users to customize explanation views.  
+  - [ ] Provide downloadable reports for AI decisions.  
+  - [ ] Test visualizations with end-users for clarity.  
 
 
 
