@@ -170,7 +170,17 @@ To improve the quality of training data by automatically detecting and resolving
 - **Tasks:**  
   - [ ] Log details of automated cleaning actions.  
   - [ ] Provide a user interface to review and override cleaning decisions.  
-  - [ ] Store logs for historical auditing and analysis.  
+  - [ ] Store logs for historical auditing and analysis. 
+
+  ### **5. [UR-03.5] Integrate Cleaning with AI Pipelines**
+- **Parent:** [UR-03] Automated Data Cleaning  
+- **Goal:** Ensure cleaned data is seamlessly used in AI training.  
+- **Approach:** Automate the flow from raw data to cleaned data.  
+- **Tasks:**  
+  - [ ] Integrate cleaning scripts into data preprocessing pipelines.  
+  - [ ] Validate AI model performance on cleaned vs. raw data.  
+  - [ ] Ensure compatibility with existing training workflows.  
+  - [ ] Monitor cleaning pipeline performance in real-time.   
 
 
 
