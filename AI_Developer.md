@@ -72,3 +72,11 @@ To ensure AI models are trained on balanced datasets, reducing the risk of biase
 
 ---
 
+## **Sub-Issues:**
+
+### **1. [UR-02.1] Identify Common Bias Patterns**
+- **Assumption:** Detecting and addressing biases in datasets leads to fairer AI model outcomes.  
+- **Validation:** Analyze existing datasets to identify bias patterns and validate findings with domain experts.  
+
+
+
