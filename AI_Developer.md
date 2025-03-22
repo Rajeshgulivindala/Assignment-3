@@ -182,6 +182,26 @@ To improve the quality of training data by automatically detecting and resolving
   - [ ] Ensure compatibility with existing training workflows.  
   - [ ] Monitor cleaning pipeline performance in real-time.   
 
+## **Issue #4: Explainable AI Model Predictions**
+**Title:** Implement an explainability module for AI model predictions  
+
+**User Story:**  
+As an AI developer, I want to understand the reasoning behind AI predictions so that I can debug and improve model performance.  
+
+**Purpose:**  
+To provide transparency into AI decision-making by generating human-readable explanations for predictions.  
+
+**Implementation Strategy:**  
+- Research and implement explainability frameworks.  
+- Develop visual formats (graphs, heatmaps, text) for explanations.  
+- Integrate explainability into real-time AI inference workflows.  
+- Store explanations for future reference and auditing.  
+
+**Priority:** Medium  
+
+---
+
+
 
 
 
